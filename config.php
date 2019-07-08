@@ -1,7 +1,7 @@
-< ?php>
-    $dbhost = "localhost":
-    $dbuser = "root":
-    $dbpass = "":
-    $dbName = "sample" :
-    $conn = new mysqli ($dbhost , $dbuser , $dbpass, $dbname) :
-    ?>
+<?php
+   $dbhost = "localhost ":
+   $dbuser = "id
+   $dbpass = "":
+   $dbname = "sample" :
+   $conn = new mysqli ($dbhost, $dbuser, $dbpass, $dbname) :
+   ?>

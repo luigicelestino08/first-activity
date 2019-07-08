@@ -12,5 +12,13 @@
        email address : <input type= "text name= "email" ><br>
        <input type= "submit" name= "btn" value= "submit">
       </form>
-</body>
-</html>
+
+
+<form action="ContactMe.php" method= "post">
+<span>Visitor's Name: </span>span><input type= "text" name= "visitorsname">
+<span>Visitor's Email: </span>span><input type= "text" name= "visitorEmail">
+<span>Visitor's company: </span>span><input type= "text" name= "visitorscompany">
+<span>Visitor's Message: </span>span><input type= "text" name= "visitorsmessage">
+</form>form>
+</body>body>
+</html>html>
